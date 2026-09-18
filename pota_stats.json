@@ -1,0 +1,189 @@
+{
+  "metadata": {
+    "source": "api.pota.app",
+    "updated_at_utc": "2026-09-18T23:48:30.034187+00:00",
+    "updated_at_human": "2026-09-18 23:48:30 UTC",
+    "scope": "Portugal (Continente, Açores, Madeira)"
+  },
+  "summary": {
+    "total_parks": 410,
+    "total_activations": 3912,
+    "total_qsos": 229597,
+    "total_attempts": 4294,
+    "never_activated_count": 90
+  },
+  "top_activated": [
+    {
+      "rank": 1,
+      "reference": "PT-0051",
+      "name": "Parque Natural da Ria Formosa Nature Park",
+      "locationDesc": "PT-FA",
+      "activations": 234,
+      "qsos": 16407,
+      "attempts": 239
+    },
+    {
+      "rank": 2,
+      "reference": "PT-0054",
+      "name": "Ria Formosa Natura 2000",
+      "locationDesc": "PT-FA",
+      "activations": 227,
+      "qsos": 15096,
+      "attempts": 230
+    },
+    {
+      "rank": 3,
+      "reference": "PT-0070",
+      "name": "Reserva da Biosfera Transfronteirica Geres-Xures UNESCO Biosphere Reserve",
+      "locationDesc": "PT-BR,PT-VC,PT-VR",
+      "activations": 105,
+      "qsos": 3750,
+      "attempts": 108
+    },
+    {
+      "rank": 4,
+      "reference": "PT-0048",
+      "name": "Cerro da Cabeca Natura 2000",
+      "locationDesc": "PT-FA",
+      "activations": 93,
+      "qsos": 5688,
+      "attempts": 93
+    },
+    {
+      "rank": 5,
+      "reference": "PT-0041",
+      "name": "Parque Natural de Sintra-Cascais Nature Park",
+      "locationDesc": "PT-LI",
+      "activations": 86,
+      "qsos": 3554,
+      "attempts": 110
+    },
+    {
+      "rank": 6,
+      "reference": "PT-0014",
+      "name": "Costa Sudoeste Natura 2000",
+      "locationDesc": "PT-BE,PT-FA,PT-SE",
+      "activations": 85,
+      "qsos": 10559,
+      "attempts": 90
+    },
+    {
+      "rank": 7,
+      "reference": "PT-0064",
+      "name": "Parque Natural das Serras de Aire e Candeeiros Nature Park",
+      "locationDesc": "PT-LE,PT-SA",
+      "activations": 79,
+      "qsos": 2995,
+      "attempts": 87
+    },
+    {
+      "rank": 8,
+      "reference": "PT-0028",
+      "name": "Serra da Estrela Nature Park",
+      "locationDesc": "PT-CB,PT-GU",
+      "activations": 74,
+      "qsos": 2454,
+      "attempts": 85
+    },
+    {
+      "rank": 9,
+      "reference": "PT-0068",
+      "name": "Serras d'Aire e Candeeiros Natura 2000",
+      "locationDesc": "PT-LE,PT-SA",
+      "activations": 69,
+      "qsos": 2691,
+      "attempts": 75
+    },
+    {
+      "rank": 10,
+      "reference": "PT-0021",
+      "name": "Parque Natural do Litoral Norte Marine Protected Area",
+      "locationDesc": "PT-BR,PT-PO",
+      "activations": 61,
+      "qsos": 1799,
+      "attempts": 61
+    }
+  ],
+  "top_qsos": [
+    {
+      "rank": 1,
+      "reference": "PT-0164",
+      "name": "Parque Natural de Sao Miguel Nature Park",
+      "locationDesc": "PT-AC",
+      "qsos": 16503,
+      "activations": 27
+    },
+    {
+      "rank": 2,
+      "reference": "PT-0051",
+      "name": "Parque Natural da Ria Formosa Nature Park",
+      "locationDesc": "PT-FA",
+      "qsos": 16407,
+      "activations": 234
+    },
+    {
+      "rank": 3,
+      "reference": "PT-0054",
+      "name": "Ria Formosa Natura 2000",
+      "locationDesc": "PT-FA",
+      "qsos": 15096,
+      "activations": 227
+    },
+    {
+      "rank": 4,
+      "reference": "PT-0014",
+      "name": "Costa Sudoeste Natura 2000",
+      "locationDesc": "PT-BE,PT-FA,PT-SE",
+      "qsos": 10559,
+      "activations": 85
+    },
+    {
+      "rank": 5,
+      "reference": "PT-0017",
+      "name": "Parque Natural do Sudoeste Alentejano e Costa Vicentina Nature Park",
+      "locationDesc": "PT-BE,PT-FA,PT-SE",
+      "qsos": 9046,
+      "activations": 60
+    },
+    {
+      "rank": 6,
+      "reference": "PT-0202",
+      "name": "Parque Natural de Sao Jorge Nature Park",
+      "locationDesc": "PT-AC",
+      "qsos": 7633,
+      "activations": 9
+    },
+    {
+      "rank": 7,
+      "reference": "PT-0103",
+      "name": "Estuarios dos Rios Minho e Coura Natura 2000",
+      "locationDesc": "PT-VC",
+      "qsos": 7443,
+      "activations": 22
+    },
+    {
+      "rank": 8,
+      "reference": "PT-0222",
+      "name": "Parque Natural da Graciosa Nature Park",
+      "locationDesc": "PT-AC",
+      "qsos": 6378,
+      "activations": 8
+    },
+    {
+      "rank": 9,
+      "reference": "PT-0048",
+      "name": "Cerro da Cabeca Natura 2000",
+      "locationDesc": "PT-FA",
+      "qsos": 5688,
+      "activations": 93
+    },
+    {
+      "rank": 10,
+      "reference": "PT-0303",
+      "name": "Ilhas Selvagens Nature Reserve",
+      "locationDesc": "PT-MA",
+      "qsos": 5096,
+      "activations": 4
+    }
+  ]
+}
