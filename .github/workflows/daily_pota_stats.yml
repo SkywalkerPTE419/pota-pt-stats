@@ -1,0 +1,32 @@
+name: Atualização Diária Estatísticas POTA (20h)
+
+on:
+  schedule:
+    # Corre todos os dias às 20:00 UTC (ou 20h/21h em Lisboa)
+    - cron: '0 20 * * *'
+  workflow_dispatch: # Permite disparar manualmente a qualquer momento pela interface do GitHub
+
+jobs:
+  update-pota:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+
+    steps:
+      - name: Checkout do Repositório
+        uses: actions/checkout@v4
+
+      - name: Configurar Python 3.11
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Executar Consulta à API POTA
+        run: python scripts/update_pota_stats.py
+
+      - name: Comitar e Publicar pota_stats.json
+        run: |
+          git config user.name "POTA Portugal Bot"
+          git config user.email "bot@pota.pt"
+          git add pota_stats.json
+          git diff --quiet && git diff --staged --quiet || (git commit -m "Atualização diária das estatísticas POTA [skip ci]" && git push)
