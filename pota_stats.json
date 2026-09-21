@@ -1,15 +1,15 @@
 {
   "metadata": {
     "source": "api.pota.app",
-    "updated_at_utc": "2026-09-20T22:09:25.454720+00:00",
-    "updated_at_human": "2026-09-20 22:09:25 UTC",
+    "updated_at_utc": "2026-09-21T22:58:50.466904+00:00",
+    "updated_at_human": "2026-09-21 22:58:50 UTC",
     "scope": "Portugal (Continente, Açores, Madeira)"
   },
   "summary": {
     "total_parks": 410,
-    "total_activations": 3912,
-    "total_qsos": 229597,
-    "total_attempts": 4294,
+    "total_activations": 3958,
+    "total_qsos": 231706,
+    "total_attempts": 4343,
     "never_activated_count": 90
   },
   "top_activated": [
@@ -18,39 +18,48 @@
       "reference": "PT-0051",
       "name": "Parque Natural da Ria Formosa Nature Park",
       "locationDesc": "PT-FA",
-      "activations": 234,
-      "qsos": 16407,
-      "attempts": 239
+      "activations": 237,
+      "qsos": 16613,
+      "attempts": 242
     },
     {
       "rank": 2,
       "reference": "PT-0054",
       "name": "Ria Formosa Natura 2000",
       "locationDesc": "PT-FA",
-      "activations": 227,
-      "qsos": 15096,
-      "attempts": 230
+      "activations": 230,
+      "qsos": 15303,
+      "attempts": 234
     },
     {
       "rank": 3,
       "reference": "PT-0070",
       "name": "Reserva da Biosfera Transfronteirica Geres-Xures UNESCO Biosphere Reserve",
       "locationDesc": "PT-BR,PT-VC,PT-VR",
-      "activations": 105,
-      "qsos": 3750,
-      "attempts": 108
+      "activations": 107,
+      "qsos": 3848,
+      "attempts": 110
     },
     {
       "rank": 4,
       "reference": "PT-0048",
       "name": "Cerro da Cabeca Natura 2000",
       "locationDesc": "PT-FA",
-      "activations": 93,
-      "qsos": 5688,
-      "attempts": 93
+      "activations": 94,
+      "qsos": 5832,
+      "attempts": 94
     },
     {
       "rank": 5,
+      "reference": "PT-0014",
+      "name": "Costa Sudoeste Natura 2000",
+      "locationDesc": "PT-BE,PT-FA,PT-SE",
+      "activations": 86,
+      "qsos": 10615,
+      "attempts": 91
+    },
+    {
+      "rank": 6,
       "reference": "PT-0041",
       "name": "Parque Natural de Sintra-Cascais Nature Park",
       "locationDesc": "PT-LI",
@@ -59,22 +68,13 @@
       "attempts": 110
     },
     {
-      "rank": 6,
-      "reference": "PT-0014",
-      "name": "Costa Sudoeste Natura 2000",
-      "locationDesc": "PT-BE,PT-FA,PT-SE",
-      "activations": 85,
-      "qsos": 10559,
-      "attempts": 90
-    },
-    {
       "rank": 7,
       "reference": "PT-0064",
       "name": "Parque Natural das Serras de Aire e Candeeiros Nature Park",
       "locationDesc": "PT-LE,PT-SA",
-      "activations": 79,
-      "qsos": 2995,
-      "attempts": 87
+      "activations": 81,
+      "qsos": 3050,
+      "attempts": 89
     },
     {
       "rank": 8,
@@ -90,9 +90,9 @@
       "reference": "PT-0068",
       "name": "Serras d'Aire e Candeeiros Natura 2000",
       "locationDesc": "PT-LE,PT-SA",
-      "activations": 69,
-      "qsos": 2691,
-      "attempts": 75
+      "activations": 71,
+      "qsos": 2746,
+      "attempts": 77
     },
     {
       "rank": 10,
@@ -107,6 +107,14 @@
   "top_qsos": [
     {
       "rank": 1,
+      "reference": "PT-0051",
+      "name": "Parque Natural da Ria Formosa Nature Park",
+      "locationDesc": "PT-FA",
+      "qsos": 16613,
+      "activations": 237
+    },
+    {
+      "rank": 2,
       "reference": "PT-0164",
       "name": "Parque Natural de Sao Miguel Nature Park",
       "locationDesc": "PT-AC",
@@ -114,28 +122,20 @@
       "activations": 27
     },
     {
-      "rank": 2,
-      "reference": "PT-0051",
-      "name": "Parque Natural da Ria Formosa Nature Park",
-      "locationDesc": "PT-FA",
-      "qsos": 16407,
-      "activations": 234
-    },
-    {
       "rank": 3,
       "reference": "PT-0054",
       "name": "Ria Formosa Natura 2000",
       "locationDesc": "PT-FA",
-      "qsos": 15096,
-      "activations": 227
+      "qsos": 15303,
+      "activations": 230
     },
     {
       "rank": 4,
       "reference": "PT-0014",
       "name": "Costa Sudoeste Natura 2000",
       "locationDesc": "PT-BE,PT-FA,PT-SE",
-      "qsos": 10559,
-      "activations": 85
+      "qsos": 10615,
+      "activations": 86
     },
     {
       "rank": 5,
@@ -174,8 +174,8 @@
       "reference": "PT-0048",
       "name": "Cerro da Cabeca Natura 2000",
       "locationDesc": "PT-FA",
-      "qsos": 5688,
-      "activations": 93
+      "qsos": 5832,
+      "activations": 94
     },
     {
       "rank": 10,
