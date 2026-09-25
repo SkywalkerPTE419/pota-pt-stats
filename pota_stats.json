@@ -1,15 +1,15 @@
 {
   "metadata": {
     "source": "api.pota.app",
-    "updated_at_utc": "2026-09-24T22:58:53.200207+00:00",
-    "updated_at_human": "2026-09-24 22:58:53 UTC",
+    "updated_at_utc": "2026-09-25T23:03:00.181090+00:00",
+    "updated_at_human": "2026-09-25 23:03:00 UTC",
     "scope": "Portugal (Continente, Açores, Madeira)"
   },
   "summary": {
     "total_parks": 410,
-    "total_activations": 3978,
-    "total_qsos": 232439,
-    "total_attempts": 4363,
+    "total_activations": 3982,
+    "total_qsos": 232641,
+    "total_attempts": 4367,
     "never_activated_count": 89
   },
   "top_activated": [
@@ -18,18 +18,18 @@
       "reference": "PT-0051",
       "name": "Parque Natural da Ria Formosa Nature Park",
       "locationDesc": "PT-FA",
-      "activations": 239,
-      "qsos": 16755,
-      "attempts": 244
+      "activations": 240,
+      "qsos": 16828,
+      "attempts": 245
     },
     {
       "rank": 2,
       "reference": "PT-0054",
       "name": "Ria Formosa Natura 2000",
       "locationDesc": "PT-FA",
-      "activations": 232,
-      "qsos": 15445,
-      "attempts": 236
+      "activations": 233,
+      "qsos": 15518,
+      "attempts": 237
     },
     {
       "rank": 3,
@@ -51,21 +51,21 @@
     },
     {
       "rank": 5,
+      "reference": "PT-0041",
+      "name": "Parque Natural de Sintra-Cascais Nature Park",
+      "locationDesc": "PT-LI",
+      "activations": 87,
+      "qsos": 3582,
+      "attempts": 111
+    },
+    {
+      "rank": 6,
       "reference": "PT-0014",
       "name": "Costa Sudoeste Natura 2000",
       "locationDesc": "PT-BE,PT-FA,PT-SE",
       "activations": 86,
       "qsos": 10615,
       "attempts": 91
-    },
-    {
-      "rank": 6,
-      "reference": "PT-0041",
-      "name": "Parque Natural de Sintra-Cascais Nature Park",
-      "locationDesc": "PT-LI",
-      "activations": 86,
-      "qsos": 3554,
-      "attempts": 110
     },
     {
       "rank": 7,
@@ -110,8 +110,8 @@
       "reference": "PT-0051",
       "name": "Parque Natural da Ria Formosa Nature Park",
       "locationDesc": "PT-FA",
-      "qsos": 16755,
-      "activations": 239
+      "qsos": 16828,
+      "activations": 240
     },
     {
       "rank": 2,
@@ -126,8 +126,8 @@
       "reference": "PT-0054",
       "name": "Ria Formosa Natura 2000",
       "locationDesc": "PT-FA",
-      "qsos": 15445,
-      "activations": 232
+      "qsos": 15518,
+      "activations": 233
     },
     {
       "rank": 4,
