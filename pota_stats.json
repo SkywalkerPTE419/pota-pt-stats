@@ -1,15 +1,15 @@
 {
   "metadata": {
     "source": "api.pota.app",
-    "updated_at_utc": "2026-09-27T22:47:05.630683+00:00",
-    "updated_at_human": "2026-09-27 22:47:05 UTC",
+    "updated_at_utc": "2026-09-29T00:09:46.507530+00:00",
+    "updated_at_human": "2026-09-29 00:09:46 UTC",
     "scope": "Portugal (Continente, Açores, Madeira)"
   },
   "summary": {
     "total_parks": 410,
-    "total_activations": 4002,
-    "total_qsos": 233189,
-    "total_attempts": 4388,
+    "total_activations": 4016,
+    "total_qsos": 233716,
+    "total_attempts": 4403,
     "never_activated_count": 89
   },
   "top_activated": [
@@ -54,9 +54,9 @@
       "reference": "PT-0041",
       "name": "Parque Natural de Sintra-Cascais Nature Park",
       "locationDesc": "PT-LI",
-      "activations": 87,
-      "qsos": 3587,
-      "attempts": 112
+      "activations": 88,
+      "qsos": 3605,
+      "attempts": 113
     },
     {
       "rank": 6,
