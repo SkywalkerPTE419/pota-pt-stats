@@ -1,15 +1,15 @@
 {
   "metadata": {
     "source": "api.pota.app",
-    "updated_at_utc": "2026-10-03T22:38:46.599747+00:00",
-    "updated_at_human": "2026-10-03 22:38:46 UTC",
+    "updated_at_utc": "2026-10-04T22:41:30.181010+00:00",
+    "updated_at_human": "2026-10-04 22:41:30 UTC",
     "scope": "Portugal (Continente, Açores, Madeira)"
   },
   "summary": {
     "total_parks": 410,
-    "total_activations": 4045,
-    "total_qsos": 234469,
-    "total_attempts": 4435,
+    "total_activations": 4047,
+    "total_qsos": 234500,
+    "total_attempts": 4437,
     "never_activated_count": 88
   },
   "top_activated": [
@@ -99,9 +99,9 @@
       "reference": "PT-0094",
       "name": "Parque Florestal de Monsanto National Park",
       "locationDesc": "PT-LI",
-      "activations": 66,
-      "qsos": 2069,
-      "attempts": 73
+      "activations": 67,
+      "qsos": 2080,
+      "attempts": 74
     }
   ],
   "top_qsos": [
