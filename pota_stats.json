@@ -1,15 +1,15 @@
 {
   "metadata": {
     "source": "api.pota.app",
-    "updated_at_utc": "2026-10-06T01:05:40.829780+00:00",
-    "updated_at_human": "2026-10-06 01:05:40 UTC",
+    "updated_at_utc": "2026-10-06T23:32:00.986485+00:00",
+    "updated_at_human": "2026-10-06 23:32:00 UTC",
     "scope": "Portugal (Continente, Açores, Madeira)"
   },
   "summary": {
     "total_parks": 410,
-    "total_activations": 4061,
-    "total_qsos": 235009,
-    "total_attempts": 4451,
+    "total_activations": 4074,
+    "total_qsos": 235385,
+    "total_attempts": 4464,
     "never_activated_count": 88
   },
   "top_activated": [
@@ -18,18 +18,18 @@
       "reference": "PT-0051",
       "name": "Parque Natural da Ria Formosa Nature Park",
       "locationDesc": "PT-FA",
-      "activations": 243,
-      "qsos": 16920,
-      "attempts": 248
+      "activations": 244,
+      "qsos": 16956,
+      "attempts": 249
     },
     {
       "rank": 2,
       "reference": "PT-0054",
       "name": "Ria Formosa Natura 2000",
       "locationDesc": "PT-FA",
-      "activations": 236,
-      "qsos": 15610,
-      "attempts": 240
+      "activations": 237,
+      "qsos": 15646,
+      "attempts": 241
     },
     {
       "rank": 3,
@@ -63,9 +63,9 @@
       "reference": "PT-0014",
       "name": "Costa Sudoeste Natura 2000",
       "locationDesc": "PT-BE,PT-FA,PT-SE",
-      "activations": 86,
-      "qsos": 10615,
-      "attempts": 91
+      "activations": 87,
+      "qsos": 10641,
+      "attempts": 92
     },
     {
       "rank": 7,
@@ -99,9 +99,9 @@
       "reference": "PT-0094",
       "name": "Parque Florestal de Monsanto National Park",
       "locationDesc": "PT-LI",
-      "activations": 68,
-      "qsos": 2093,
-      "attempts": 75
+      "activations": 69,
+      "qsos": 2138,
+      "attempts": 76
     }
   ],
   "top_qsos": [
@@ -110,8 +110,8 @@
       "reference": "PT-0051",
       "name": "Parque Natural da Ria Formosa Nature Park",
       "locationDesc": "PT-FA",
-      "qsos": 16920,
-      "activations": 243
+      "qsos": 16956,
+      "activations": 244
     },
     {
       "rank": 2,
@@ -126,24 +126,24 @@
       "reference": "PT-0054",
       "name": "Ria Formosa Natura 2000",
       "locationDesc": "PT-FA",
-      "qsos": 15610,
-      "activations": 236
+      "qsos": 15646,
+      "activations": 237
     },
     {
       "rank": 4,
       "reference": "PT-0014",
       "name": "Costa Sudoeste Natura 2000",
       "locationDesc": "PT-BE,PT-FA,PT-SE",
-      "qsos": 10615,
-      "activations": 86
+      "qsos": 10641,
+      "activations": 87
     },
     {
       "rank": 5,
       "reference": "PT-0017",
       "name": "Parque Natural do Sudoeste Alentejano e Costa Vicentina Nature Park",
       "locationDesc": "PT-BE,PT-FA,PT-SE",
-      "qsos": 9046,
-      "activations": 60
+      "qsos": 9072,
+      "activations": 61
     },
     {
       "rank": 6,
