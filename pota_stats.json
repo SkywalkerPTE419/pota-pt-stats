@@ -1,16 +1,16 @@
 {
   "metadata": {
     "source": "api.pota.app",
-    "updated_at_utc": "2026-10-06T23:32:00.986485+00:00",
-    "updated_at_human": "2026-10-06 23:32:00 UTC",
+    "updated_at_utc": "2026-10-07T23:59:31.264963+00:00",
+    "updated_at_human": "2026-10-07 23:59:31 UTC",
     "scope": "Portugal (Continente, Açores, Madeira)"
   },
   "summary": {
     "total_parks": 410,
-    "total_activations": 4074,
-    "total_qsos": 235385,
-    "total_attempts": 4464,
-    "never_activated_count": 88
+    "total_activations": 4092,
+    "total_qsos": 236150,
+    "total_attempts": 4483,
+    "never_activated_count": 87
   },
   "top_activated": [
     {
@@ -51,21 +51,21 @@
     },
     {
       "rank": 5,
+      "reference": "PT-0014",
+      "name": "Costa Sudoeste Natura 2000",
+      "locationDesc": "PT-BE,PT-FA,PT-SE",
+      "activations": 91,
+      "qsos": 10846,
+      "attempts": 96
+    },
+    {
+      "rank": 6,
       "reference": "PT-0041",
       "name": "Parque Natural de Sintra-Cascais Nature Park",
       "locationDesc": "PT-LI",
       "activations": 90,
       "qsos": 3669,
       "attempts": 115
-    },
-    {
-      "rank": 6,
-      "reference": "PT-0014",
-      "name": "Costa Sudoeste Natura 2000",
-      "locationDesc": "PT-BE,PT-FA,PT-SE",
-      "activations": 87,
-      "qsos": 10641,
-      "attempts": 92
     },
     {
       "rank": 7,
@@ -99,9 +99,9 @@
       "reference": "PT-0094",
       "name": "Parque Florestal de Monsanto National Park",
       "locationDesc": "PT-LI",
-      "activations": 69,
-      "qsos": 2138,
-      "attempts": 76
+      "activations": 71,
+      "qsos": 2161,
+      "attempts": 78
     }
   ],
   "top_qsos": [
@@ -134,16 +134,16 @@
       "reference": "PT-0014",
       "name": "Costa Sudoeste Natura 2000",
       "locationDesc": "PT-BE,PT-FA,PT-SE",
-      "qsos": 10641,
-      "activations": 87
+      "qsos": 10846,
+      "activations": 91
     },
     {
       "rank": 5,
       "reference": "PT-0017",
       "name": "Parque Natural do Sudoeste Alentejano e Costa Vicentina Nature Park",
       "locationDesc": "PT-BE,PT-FA,PT-SE",
-      "qsos": 9072,
-      "activations": 61
+      "qsos": 9266,
+      "activations": 64
     },
     {
       "rank": 6,
