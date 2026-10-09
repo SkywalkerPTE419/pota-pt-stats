@@ -1,15 +1,15 @@
 {
   "metadata": {
     "source": "api.pota.app",
-    "updated_at_utc": "2026-10-07T23:59:31.264963+00:00",
-    "updated_at_human": "2026-10-07 23:59:31 UTC",
+    "updated_at_utc": "2026-10-09T00:07:17.903189+00:00",
+    "updated_at_human": "2026-10-09 00:07:17 UTC",
     "scope": "Portugal (Continente, Açores, Madeira)"
   },
   "summary": {
     "total_parks": 410,
-    "total_activations": 4092,
-    "total_qsos": 236150,
-    "total_attempts": 4483,
+    "total_activations": 4098,
+    "total_qsos": 236316,
+    "total_attempts": 4489,
     "never_activated_count": 87
   },
   "top_activated": [
@@ -36,9 +36,9 @@
       "reference": "PT-0070",
       "name": "Reserva da Biosfera Transfronteirica Geres-Xures UNESCO Biosphere Reserve",
       "locationDesc": "PT-BR,PT-VC,PT-VR",
-      "activations": 109,
-      "qsos": 3925,
-      "attempts": 112
+      "activations": 110,
+      "qsos": 3997,
+      "attempts": 113
     },
     {
       "rank": 4,
@@ -87,21 +87,21 @@
     },
     {
       "rank": 9,
+      "reference": "PT-0094",
+      "name": "Parque Florestal de Monsanto National Park",
+      "locationDesc": "PT-LI",
+      "activations": 72,
+      "qsos": 2176,
+      "attempts": 79
+    },
+    {
+      "rank": 10,
       "reference": "PT-0068",
       "name": "Serras d'Aire e Candeeiros Natura 2000",
       "locationDesc": "PT-LE,PT-SA",
       "activations": 71,
       "qsos": 2746,
       "attempts": 77
-    },
-    {
-      "rank": 10,
-      "reference": "PT-0094",
-      "name": "Parque Florestal de Monsanto National Park",
-      "locationDesc": "PT-LI",
-      "activations": 71,
-      "qsos": 2161,
-      "attempts": 78
     }
   ],
   "top_qsos": [
