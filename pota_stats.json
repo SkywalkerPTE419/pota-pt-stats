@@ -1,16 +1,16 @@
 {
   "metadata": {
     "source": "api.pota.app",
-    "updated_at_utc": "2026-10-09T00:07:17.903189+00:00",
-    "updated_at_human": "2026-10-09 00:07:17 UTC",
+    "updated_at_utc": "2026-10-09T23:47:27.028979+00:00",
+    "updated_at_human": "2026-10-09 23:47:27 UTC",
     "scope": "Portugal (Continente, Açores, Madeira)"
   },
   "summary": {
     "total_parks": 410,
-    "total_activations": 4098,
-    "total_qsos": 236316,
-    "total_attempts": 4489,
-    "never_activated_count": 87
+    "total_activations": 4108,
+    "total_qsos": 236593,
+    "total_attempts": 4522,
+    "never_activated_count": 85
   },
   "top_activated": [
     {
@@ -82,8 +82,8 @@
       "name": "Serra da Estrela Nature Park",
       "locationDesc": "PT-CB,PT-GU",
       "activations": 74,
-      "qsos": 2454,
-      "attempts": 85
+      "qsos": 2462,
+      "attempts": 86
     },
     {
       "rank": 9,
