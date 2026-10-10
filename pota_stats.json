@@ -1,16 +1,16 @@
 {
   "metadata": {
     "source": "api.pota.app",
-    "updated_at_utc": "2026-10-09T23:47:27.028979+00:00",
-    "updated_at_human": "2026-10-09 23:47:27 UTC",
+    "updated_at_utc": "2026-10-10T23:10:37.271253+00:00",
+    "updated_at_human": "2026-10-10 23:10:37 UTC",
     "scope": "Portugal (Continente, Açores, Madeira)"
   },
   "summary": {
     "total_parks": 410,
-    "total_activations": 4108,
-    "total_qsos": 236593,
-    "total_attempts": 4522,
-    "never_activated_count": 85
+    "total_activations": 4120,
+    "total_qsos": 236836,
+    "total_attempts": 4537,
+    "never_activated_count": 84
   },
   "top_activated": [
     {
@@ -54,9 +54,9 @@
       "reference": "PT-0014",
       "name": "Costa Sudoeste Natura 2000",
       "locationDesc": "PT-BE,PT-FA,PT-SE",
-      "activations": 91,
-      "qsos": 10846,
-      "attempts": 96
+      "activations": 92,
+      "qsos": 10860,
+      "attempts": 97
     },
     {
       "rank": 6,
@@ -64,8 +64,8 @@
       "name": "Parque Natural de Sintra-Cascais Nature Park",
       "locationDesc": "PT-LI",
       "activations": 90,
-      "qsos": 3669,
-      "attempts": 115
+      "qsos": 3676,
+      "attempts": 116
     },
     {
       "rank": 7,
@@ -81,8 +81,8 @@
       "reference": "PT-0028",
       "name": "Serra da Estrela Nature Park",
       "locationDesc": "PT-CB,PT-GU",
-      "activations": 74,
-      "qsos": 2462,
+      "activations": 75,
+      "qsos": 2467,
       "attempts": 86
     },
     {
@@ -134,8 +134,8 @@
       "reference": "PT-0014",
       "name": "Costa Sudoeste Natura 2000",
       "locationDesc": "PT-BE,PT-FA,PT-SE",
-      "qsos": 10846,
-      "activations": 91
+      "qsos": 10860,
+      "activations": 92
     },
     {
       "rank": 5,
@@ -158,8 +158,8 @@
       "reference": "PT-0103",
       "name": "Estuarios dos Rios Minho e Coura Natura 2000",
       "locationDesc": "PT-VC",
-      "qsos": 7443,
-      "activations": 22
+      "qsos": 7473,
+      "activations": 24
     },
     {
       "rank": 8,
