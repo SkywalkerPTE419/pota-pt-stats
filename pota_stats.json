@@ -1,15 +1,15 @@
 {
   "metadata": {
     "source": "api.pota.app",
-    "updated_at_utc": "2026-10-10T23:10:37.271253+00:00",
-    "updated_at_human": "2026-10-10 23:10:37 UTC",
+    "updated_at_utc": "2026-10-11T23:25:31.831039+00:00",
+    "updated_at_human": "2026-10-11 23:25:31 UTC",
     "scope": "Portugal (Continente, Açores, Madeira)"
   },
   "summary": {
     "total_parks": 410,
-    "total_activations": 4120,
-    "total_qsos": 236836,
-    "total_attempts": 4537,
+    "total_activations": 4132,
+    "total_qsos": 237233,
+    "total_attempts": 4549,
     "never_activated_count": 84
   },
   "top_activated": [
