@@ -1,15 +1,15 @@
 {
   "metadata": {
     "source": "api.pota.app",
-    "updated_at_utc": "2026-10-13T23:34:57.882522+00:00",
-    "updated_at_human": "2026-10-13 23:34:57 UTC",
+    "updated_at_utc": "2026-10-14T22:57:29.368530+00:00",
+    "updated_at_human": "2026-10-14 22:57:29 UTC",
     "scope": "Portugal (Continente, Açores, Madeira)"
   },
   "summary": {
     "total_parks": 410,
-    "total_activations": 4150,
-    "total_qsos": 237627,
-    "total_attempts": 4571,
+    "total_activations": 4157,
+    "total_qsos": 237783,
+    "total_attempts": 4578,
     "never_activated_count": 84
   },
   "top_activated": [
@@ -45,9 +45,9 @@
       "reference": "PT-0048",
       "name": "Cerro da Cabeca Natura 2000",
       "locationDesc": "PT-FA",
-      "activations": 100,
-      "qsos": 6070,
-      "attempts": 100
+      "activations": 101,
+      "qsos": 6123,
+      "attempts": 101
     },
     {
       "rank": 5,
@@ -90,9 +90,9 @@
       "reference": "PT-0094",
       "name": "Parque Florestal de Monsanto National Park",
       "locationDesc": "PT-LI",
-      "activations": 72,
-      "qsos": 2176,
-      "attempts": 79
+      "activations": 73,
+      "qsos": 2211,
+      "attempts": 80
     },
     {
       "rank": 10,
@@ -174,8 +174,8 @@
       "reference": "PT-0048",
       "name": "Cerro da Cabeca Natura 2000",
       "locationDesc": "PT-FA",
-      "qsos": 6070,
-      "activations": 100
+      "qsos": 6123,
+      "activations": 101
     },
     {
       "rank": 10,
