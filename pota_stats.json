@@ -1,15 +1,15 @@
 {
   "metadata": {
     "source": "api.pota.app",
-    "updated_at_utc": "2026-10-16T22:27:49.740035+00:00",
-    "updated_at_human": "2026-10-16 22:27:49 UTC",
+    "updated_at_utc": "2026-10-17T21:57:05.501854+00:00",
+    "updated_at_human": "2026-10-17 21:57:05 UTC",
     "scope": "Portugal (Continente, Açores, Madeira)"
   },
   "summary": {
     "total_parks": 410,
-    "total_activations": 4166,
-    "total_qsos": 237975,
-    "total_attempts": 4587,
+    "total_activations": 4168,
+    "total_qsos": 238072,
+    "total_attempts": 4589,
     "never_activated_count": 84
   },
   "top_activated": [
@@ -45,9 +45,9 @@
       "reference": "PT-0048",
       "name": "Cerro da Cabeca Natura 2000",
       "locationDesc": "PT-FA",
-      "activations": 102,
-      "qsos": 6134,
-      "attempts": 102
+      "activations": 103,
+      "qsos": 6150,
+      "attempts": 103
     },
     {
       "rank": 5,
@@ -174,8 +174,8 @@
       "reference": "PT-0048",
       "name": "Cerro da Cabeca Natura 2000",
       "locationDesc": "PT-FA",
-      "qsos": 6134,
-      "activations": 102
+      "qsos": 6150,
+      "activations": 103
     },
     {
       "rank": 10,
