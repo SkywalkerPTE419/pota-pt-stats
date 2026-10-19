@@ -1,15 +1,15 @@
 {
   "metadata": {
     "source": "api.pota.app",
-    "updated_at_utc": "2026-10-18T22:11:55.011736+00:00",
-    "updated_at_human": "2026-10-18 22:11:55 UTC",
+    "updated_at_utc": "2026-10-19T23:16:40.409666+00:00",
+    "updated_at_human": "2026-10-19 23:16:40 UTC",
     "scope": "Portugal (Continente, Açores, Madeira)"
   },
   "summary": {
     "total_parks": 410,
-    "total_activations": 4184,
-    "total_qsos": 238578,
-    "total_attempts": 4607,
+    "total_activations": 4208,
+    "total_qsos": 239960,
+    "total_attempts": 4629,
     "never_activated_count": 84
   },
   "top_activated": [
@@ -18,27 +18,27 @@
       "reference": "PT-0051",
       "name": "Parque Natural da Ria Formosa Nature Park",
       "locationDesc": "PT-FA",
-      "activations": 246,
-      "qsos": 16984,
-      "attempts": 251
+      "activations": 247,
+      "qsos": 17002,
+      "attempts": 252
     },
     {
       "rank": 2,
       "reference": "PT-0054",
       "name": "Ria Formosa Natura 2000",
       "locationDesc": "PT-FA",
-      "activations": 239,
-      "qsos": 15674,
-      "attempts": 243
+      "activations": 240,
+      "qsos": 15692,
+      "attempts": 244
     },
     {
       "rank": 3,
       "reference": "PT-0070",
       "name": "Reserva da Biosfera Transfronteirica Geres-Xures UNESCO Biosphere Reserve",
       "locationDesc": "PT-BR,PT-VC,PT-VR",
-      "activations": 113,
-      "qsos": 4090,
-      "attempts": 116
+      "activations": 116,
+      "qsos": 4313,
+      "attempts": 119
     },
     {
       "rank": 4,
@@ -110,8 +110,8 @@
       "reference": "PT-0051",
       "name": "Parque Natural da Ria Formosa Nature Park",
       "locationDesc": "PT-FA",
-      "qsos": 16984,
-      "activations": 246
+      "qsos": 17002,
+      "activations": 247
     },
     {
       "rank": 2,
@@ -126,8 +126,8 @@
       "reference": "PT-0054",
       "name": "Ria Formosa Natura 2000",
       "locationDesc": "PT-FA",
-      "qsos": 15674,
-      "activations": 239
+      "qsos": 15692,
+      "activations": 240
     },
     {
       "rank": 4,
