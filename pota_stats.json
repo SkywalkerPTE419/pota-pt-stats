@@ -1,15 +1,15 @@
 {
   "metadata": {
     "source": "api.pota.app",
-    "updated_at_utc": "2026-10-24T22:13:35.428376+00:00",
-    "updated_at_human": "2026-10-24 22:13:35 UTC",
+    "updated_at_utc": "2026-10-25T22:16:09.422050+00:00",
+    "updated_at_human": "2026-10-25 22:16:09 UTC",
     "scope": "Portugal (Continente, Açores, Madeira)"
   },
   "summary": {
     "total_parks": 410,
-    "total_activations": 4244,
-    "total_qsos": 241272,
-    "total_attempts": 4668,
+    "total_activations": 4255,
+    "total_qsos": 241605,
+    "total_attempts": 4679,
     "never_activated_count": 84
   },
   "top_activated": [
@@ -18,18 +18,18 @@
       "reference": "PT-0051",
       "name": "Parque Natural da Ria Formosa Nature Park",
       "locationDesc": "PT-FA",
-      "activations": 254,
-      "qsos": 17364,
-      "attempts": 259
+      "activations": 255,
+      "qsos": 17421,
+      "attempts": 260
     },
     {
       "rank": 2,
       "reference": "PT-0054",
       "name": "Ria Formosa Natura 2000",
       "locationDesc": "PT-FA",
-      "activations": 247,
-      "qsos": 16054,
-      "attempts": 251
+      "activations": 248,
+      "qsos": 16111,
+      "attempts": 252
     },
     {
       "rank": 3,
@@ -72,9 +72,9 @@
       "reference": "PT-0064",
       "name": "Parque Natural das Serras de Aire e Candeeiros Nature Park",
       "locationDesc": "PT-LE,PT-SA",
-      "activations": 81,
-      "qsos": 3050,
-      "attempts": 89
+      "activations": 82,
+      "qsos": 3066,
+      "attempts": 90
     },
     {
       "rank": 8,
@@ -99,9 +99,9 @@
       "reference": "PT-0068",
       "name": "Serras d'Aire e Candeeiros Natura 2000",
       "locationDesc": "PT-LE,PT-SA",
-      "activations": 71,
-      "qsos": 2746,
-      "attempts": 77
+      "activations": 72,
+      "qsos": 2762,
+      "attempts": 78
     }
   ],
   "top_qsos": [
@@ -110,8 +110,8 @@
       "reference": "PT-0051",
       "name": "Parque Natural da Ria Formosa Nature Park",
       "locationDesc": "PT-FA",
-      "qsos": 17364,
-      "activations": 254
+      "qsos": 17421,
+      "activations": 255
     },
     {
       "rank": 2,
@@ -126,8 +126,8 @@
       "reference": "PT-0054",
       "name": "Ria Formosa Natura 2000",
       "locationDesc": "PT-FA",
-      "qsos": 16054,
-      "activations": 247
+      "qsos": 16111,
+      "activations": 248
     },
     {
       "rank": 4,
