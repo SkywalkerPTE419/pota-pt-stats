@@ -1,15 +1,15 @@
 {
   "metadata": {
     "source": "api.pota.app",
-    "updated_at_utc": "2026-11-04T00:20:58.042548+00:00",
-    "updated_at_human": "2026-11-04 00:20:58 UTC",
+    "updated_at_utc": "2026-11-05T00:41:51.748457+00:00",
+    "updated_at_human": "2026-11-05 00:41:51 UTC",
     "scope": "Portugal (Continente, Açores, Madeira)"
   },
   "summary": {
     "total_parks": 410,
-    "total_activations": 4338,
-    "total_qsos": 244418,
-    "total_attempts": 4762,
+    "total_activations": 4353,
+    "total_qsos": 244702,
+    "total_attempts": 4777,
     "never_activated_count": 82
   },
   "top_activated": [
@@ -18,36 +18,36 @@
       "reference": "PT-0051",
       "name": "Parque Natural da Ria Formosa Nature Park",
       "locationDesc": "PT-FA",
-      "activations": 267,
-      "qsos": 17807,
-      "attempts": 272
+      "activations": 268,
+      "qsos": 17832,
+      "attempts": 273
     },
     {
       "rank": 2,
       "reference": "PT-0054",
       "name": "Ria Formosa Natura 2000",
       "locationDesc": "PT-FA",
-      "activations": 260,
-      "qsos": 16497,
-      "attempts": 264
+      "activations": 261,
+      "qsos": 16522,
+      "attempts": 265
     },
     {
       "rank": 3,
       "reference": "PT-0070",
       "name": "Reserva da Biosfera Transfronteirica Geres-Xures UNESCO Biosphere Reserve",
       "locationDesc": "PT-BR,PT-VC,PT-VR",
-      "activations": 115,
-      "qsos": 4300,
-      "attempts": 118
+      "activations": 116,
+      "qsos": 4325,
+      "attempts": 119
     },
     {
       "rank": 4,
       "reference": "PT-0048",
       "name": "Cerro da Cabeca Natura 2000",
       "locationDesc": "PT-FA",
-      "activations": 106,
-      "qsos": 6341,
-      "attempts": 106
+      "activations": 108,
+      "qsos": 6425,
+      "attempts": 108
     },
     {
       "rank": 5,
@@ -72,27 +72,27 @@
       "reference": "PT-0064",
       "name": "Parque Natural das Serras de Aire e Candeeiros Nature Park",
       "locationDesc": "PT-LE,PT-SA",
-      "activations": 84,
-      "qsos": 3092,
-      "attempts": 92
+      "activations": 88,
+      "qsos": 3136,
+      "attempts": 96
     },
     {
       "rank": 8,
+      "reference": "PT-0068",
+      "name": "Serras d'Aire e Candeeiros Natura 2000",
+      "locationDesc": "PT-LE,PT-SA",
+      "activations": 78,
+      "qsos": 2832,
+      "attempts": 84
+    },
+    {
+      "rank": 9,
       "reference": "PT-0028",
       "name": "Serra da Estrela Nature Park",
       "locationDesc": "PT-CB,PT-GU",
       "activations": 75,
       "qsos": 2467,
       "attempts": 86
-    },
-    {
-      "rank": 9,
-      "reference": "PT-0068",
-      "name": "Serras d'Aire e Candeeiros Natura 2000",
-      "locationDesc": "PT-LE,PT-SA",
-      "activations": 74,
-      "qsos": 2788,
-      "attempts": 80
     },
     {
       "rank": 10,
@@ -110,8 +110,8 @@
       "reference": "PT-0051",
       "name": "Parque Natural da Ria Formosa Nature Park",
       "locationDesc": "PT-FA",
-      "qsos": 17807,
-      "activations": 267
+      "qsos": 17832,
+      "activations": 268
     },
     {
       "rank": 2,
@@ -126,8 +126,8 @@
       "reference": "PT-0054",
       "name": "Ria Formosa Natura 2000",
       "locationDesc": "PT-FA",
-      "qsos": 16497,
-      "activations": 260
+      "qsos": 16522,
+      "activations": 261
     },
     {
       "rank": 4,
@@ -163,19 +163,19 @@
     },
     {
       "rank": 8,
+      "reference": "PT-0048",
+      "name": "Cerro da Cabeca Natura 2000",
+      "locationDesc": "PT-FA",
+      "qsos": 6425,
+      "activations": 108
+    },
+    {
+      "rank": 9,
       "reference": "PT-0222",
       "name": "Parque Natural da Graciosa Nature Park",
       "locationDesc": "PT-AC",
       "qsos": 6378,
       "activations": 8
-    },
-    {
-      "rank": 9,
-      "reference": "PT-0048",
-      "name": "Cerro da Cabeca Natura 2000",
-      "locationDesc": "PT-FA",
-      "qsos": 6341,
-      "activations": 106
     },
     {
       "rank": 10,
