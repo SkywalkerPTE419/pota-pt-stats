@@ -1,15 +1,15 @@
 {
   "metadata": {
     "source": "api.pota.app",
-    "updated_at_utc": "2026-11-06T00:43:21.624380+00:00",
-    "updated_at_human": "2026-11-06 00:43:21 UTC",
+    "updated_at_utc": "2026-11-06T23:55:46.727785+00:00",
+    "updated_at_human": "2026-11-06 23:55:46 UTC",
     "scope": "Portugal (Continente, Açores, Madeira)"
   },
   "summary": {
     "total_parks": 410,
-    "total_activations": 4357,
-    "total_qsos": 244800,
-    "total_attempts": 4781,
+    "total_activations": 4360,
+    "total_qsos": 244922,
+    "total_attempts": 4784,
     "never_activated_count": 82
   },
   "top_activated": [
@@ -18,18 +18,18 @@
       "reference": "PT-0051",
       "name": "Parque Natural da Ria Formosa Nature Park",
       "locationDesc": "PT-FA",
-      "activations": 269,
-      "qsos": 17850,
-      "attempts": 274
+      "activations": 270,
+      "qsos": 17861,
+      "attempts": 275
     },
     {
       "rank": 2,
       "reference": "PT-0054",
       "name": "Ria Formosa Natura 2000",
       "locationDesc": "PT-FA",
-      "activations": 262,
-      "qsos": 16540,
-      "attempts": 266
+      "activations": 263,
+      "qsos": 16551,
+      "attempts": 267
     },
     {
       "rank": 3,
@@ -45,9 +45,9 @@
       "reference": "PT-0048",
       "name": "Cerro da Cabeca Natura 2000",
       "locationDesc": "PT-FA",
-      "activations": 110,
-      "qsos": 6487,
-      "attempts": 110
+      "activations": 111,
+      "qsos": 6587,
+      "attempts": 111
     },
     {
       "rank": 5,
@@ -110,24 +110,24 @@
       "reference": "PT-0051",
       "name": "Parque Natural da Ria Formosa Nature Park",
       "locationDesc": "PT-FA",
-      "qsos": 17850,
-      "activations": 269
+      "qsos": 17861,
+      "activations": 270
     },
     {
       "rank": 2,
+      "reference": "PT-0054",
+      "name": "Ria Formosa Natura 2000",
+      "locationDesc": "PT-FA",
+      "qsos": 16551,
+      "activations": 263
+    },
+    {
+      "rank": 3,
       "reference": "PT-0164",
       "name": "Parque Natural de Sao Miguel Nature Park",
       "locationDesc": "PT-AC",
       "qsos": 16548,
       "activations": 30
-    },
-    {
-      "rank": 3,
-      "reference": "PT-0054",
-      "name": "Ria Formosa Natura 2000",
-      "locationDesc": "PT-FA",
-      "qsos": 16540,
-      "activations": 262
     },
     {
       "rank": 4,
@@ -166,8 +166,8 @@
       "reference": "PT-0048",
       "name": "Cerro da Cabeca Natura 2000",
       "locationDesc": "PT-FA",
-      "qsos": 6487,
-      "activations": 110
+      "qsos": 6587,
+      "activations": 111
     },
     {
       "rank": 9,
