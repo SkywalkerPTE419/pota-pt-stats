@@ -1,15 +1,15 @@
 {
   "metadata": {
     "source": "api.pota.app",
-    "updated_at_utc": "2026-11-06T23:55:46.727785+00:00",
-    "updated_at_human": "2026-11-06 23:55:46 UTC",
+    "updated_at_utc": "2026-11-07T23:23:11.761211+00:00",
+    "updated_at_human": "2026-11-07 23:23:11 UTC",
     "scope": "Portugal (Continente, Açores, Madeira)"
   },
   "summary": {
     "total_parks": 410,
-    "total_activations": 4360,
-    "total_qsos": 244922,
-    "total_attempts": 4784,
+    "total_activations": 4365,
+    "total_qsos": 245059,
+    "total_attempts": 4789,
     "never_activated_count": 82
   },
   "top_activated": [
@@ -36,18 +36,18 @@
       "reference": "PT-0070",
       "name": "Reserva da Biosfera Transfronteirica Geres-Xures UNESCO Biosphere Reserve",
       "locationDesc": "PT-BR,PT-VC,PT-VR",
-      "activations": 116,
-      "qsos": 4325,
-      "attempts": 119
+      "activations": 117,
+      "qsos": 4355,
+      "attempts": 120
     },
     {
       "rank": 4,
       "reference": "PT-0048",
       "name": "Cerro da Cabeca Natura 2000",
       "locationDesc": "PT-FA",
-      "activations": 111,
-      "qsos": 6587,
-      "attempts": 111
+      "activations": 112,
+      "qsos": 6604,
+      "attempts": 112
     },
     {
       "rank": 5,
@@ -166,8 +166,8 @@
       "reference": "PT-0048",
       "name": "Cerro da Cabeca Natura 2000",
       "locationDesc": "PT-FA",
-      "qsos": 6587,
-      "activations": 111
+      "qsos": 6604,
+      "activations": 112
     },
     {
       "rank": 9,
