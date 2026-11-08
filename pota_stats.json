@@ -1,15 +1,15 @@
 {
   "metadata": {
     "source": "api.pota.app",
-    "updated_at_utc": "2026-11-07T23:23:11.761211+00:00",
-    "updated_at_human": "2026-11-07 23:23:11 UTC",
+    "updated_at_utc": "2026-11-08T23:23:59.359333+00:00",
+    "updated_at_human": "2026-11-08 23:23:59 UTC",
     "scope": "Portugal (Continente, Açores, Madeira)"
   },
   "summary": {
     "total_parks": 410,
-    "total_activations": 4365,
-    "total_qsos": 245059,
-    "total_attempts": 4789,
+    "total_activations": 4370,
+    "total_qsos": 245415,
+    "total_attempts": 4794,
     "never_activated_count": 82
   },
   "top_activated": [
@@ -45,9 +45,9 @@
       "reference": "PT-0048",
       "name": "Cerro da Cabeca Natura 2000",
       "locationDesc": "PT-FA",
-      "activations": 112,
-      "qsos": 6604,
-      "attempts": 112
+      "activations": 113,
+      "qsos": 6810,
+      "attempts": 113
     },
     {
       "rank": 5,
@@ -63,9 +63,9 @@
       "reference": "PT-0041",
       "name": "Parque Natural de Sintra-Cascais Nature Park",
       "locationDesc": "PT-LI",
-      "activations": 92,
-      "qsos": 3758,
-      "attempts": 118
+      "activations": 93,
+      "qsos": 3805,
+      "attempts": 119
     },
     {
       "rank": 7,
@@ -166,8 +166,8 @@
       "reference": "PT-0048",
       "name": "Cerro da Cabeca Natura 2000",
       "locationDesc": "PT-FA",
-      "qsos": 6604,
-      "activations": 112
+      "qsos": 6810,
+      "activations": 113
     },
     {
       "rank": 9,
