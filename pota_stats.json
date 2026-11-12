@@ -1,15 +1,15 @@
 {
   "metadata": {
     "source": "api.pota.app",
-    "updated_at_utc": "2026-11-11T00:23:48.302541+00:00",
-    "updated_at_human": "2026-11-11 00:23:48 UTC",
+    "updated_at_utc": "2026-11-12T01:46:31.765393+00:00",
+    "updated_at_human": "2026-11-12 01:46:31 UTC",
     "scope": "Portugal (Continente, Açores, Madeira)"
   },
   "summary": {
     "total_parks": 410,
-    "total_activations": 4372,
-    "total_qsos": 245445,
-    "total_attempts": 4796,
+    "total_activations": 4376,
+    "total_qsos": 245737,
+    "total_attempts": 4800,
     "never_activated_count": 82
   },
   "top_activated": [
@@ -18,18 +18,18 @@
       "reference": "PT-0051",
       "name": "Parque Natural da Ria Formosa Nature Park",
       "locationDesc": "PT-FA",
-      "activations": 271,
-      "qsos": 17876,
-      "attempts": 276
+      "activations": 273,
+      "qsos": 18022,
+      "attempts": 278
     },
     {
       "rank": 2,
       "reference": "PT-0054",
       "name": "Ria Formosa Natura 2000",
       "locationDesc": "PT-FA",
-      "activations": 264,
-      "qsos": 16566,
-      "attempts": 268
+      "activations": 266,
+      "qsos": 16712,
+      "attempts": 270
     },
     {
       "rank": 3,
@@ -110,16 +110,16 @@
       "reference": "PT-0051",
       "name": "Parque Natural da Ria Formosa Nature Park",
       "locationDesc": "PT-FA",
-      "qsos": 17876,
-      "activations": 271
+      "qsos": 18022,
+      "activations": 273
     },
     {
       "rank": 2,
       "reference": "PT-0054",
       "name": "Ria Formosa Natura 2000",
       "locationDesc": "PT-FA",
-      "qsos": 16566,
-      "activations": 264
+      "qsos": 16712,
+      "activations": 266
     },
     {
       "rank": 3,
