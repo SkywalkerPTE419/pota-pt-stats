@@ -1,15 +1,15 @@
 {
   "metadata": {
     "source": "api.pota.app",
-    "updated_at_utc": "2026-11-23T00:34:46.165344+00:00",
-    "updated_at_human": "2026-11-23 00:34:46 UTC",
+    "updated_at_utc": "2026-11-24T04:34:29.852641+00:00",
+    "updated_at_human": "2026-11-24 04:34:29 UTC",
     "scope": "Portugal (Continente, Açores, Madeira)"
   },
   "summary": {
     "total_parks": 410,
-    "total_activations": 4410,
-    "total_qsos": 247135,
-    "total_attempts": 4835,
+    "total_activations": 4424,
+    "total_qsos": 247896,
+    "total_attempts": 4849,
     "never_activated_count": 82
   },
   "top_activated": [
@@ -18,27 +18,27 @@
       "reference": "PT-0051",
       "name": "Parque Natural da Ria Formosa Nature Park",
       "locationDesc": "PT-FA",
-      "activations": 280,
-      "qsos": 18351,
-      "attempts": 285
+      "activations": 282,
+      "qsos": 18459,
+      "attempts": 287
     },
     {
       "rank": 2,
       "reference": "PT-0054",
       "name": "Ria Formosa Natura 2000",
       "locationDesc": "PT-FA",
-      "activations": 273,
-      "qsos": 17041,
-      "attempts": 277
+      "activations": 275,
+      "qsos": 17149,
+      "attempts": 279
     },
     {
       "rank": 3,
       "reference": "PT-0070",
       "name": "Reserva da Biosfera Transfronteirica Geres-Xures UNESCO Biosphere Reserve",
       "locationDesc": "PT-BR,PT-VC,PT-VR",
-      "activations": 117,
-      "qsos": 4355,
-      "attempts": 120
+      "activations": 118,
+      "qsos": 4426,
+      "attempts": 121
     },
     {
       "rank": 4,
@@ -99,9 +99,9 @@
       "reference": "PT-0094",
       "name": "Parque Florestal de Monsanto National Park",
       "locationDesc": "PT-LI",
-      "activations": 73,
-      "qsos": 2211,
-      "attempts": 80
+      "activations": 74,
+      "qsos": 2225,
+      "attempts": 81
     }
   ],
   "top_qsos": [
@@ -110,16 +110,16 @@
       "reference": "PT-0051",
       "name": "Parque Natural da Ria Formosa Nature Park",
       "locationDesc": "PT-FA",
-      "qsos": 18351,
-      "activations": 280
+      "qsos": 18459,
+      "activations": 282
     },
     {
       "rank": 2,
       "reference": "PT-0054",
       "name": "Ria Formosa Natura 2000",
       "locationDesc": "PT-FA",
-      "qsos": 17041,
-      "activations": 273
+      "qsos": 17149,
+      "activations": 275
     },
     {
       "rank": 3,
